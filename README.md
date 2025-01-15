@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                         20 hrs 37 mins  ███████████▒░░░░░░░░░░░░░   45.02 %
-TypeScript                 17 hrs 32 mins  █████████▓░░░░░░░░░░░░░░░   38.27 %
-JSON                       1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Other                      1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Nginx configuration file   1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+C#                         19 hrs 49 mins  ██████████▓░░░░░░░░░░░░░░   43.08 %
+TypeScript                 18 hrs 6 mins   ██████████░░░░░░░░░░░░░░░   39.34 %
+JSON                       1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Nginx configuration file   1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Other                      1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
