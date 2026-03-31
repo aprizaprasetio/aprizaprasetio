@@ -1,7 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#     57 mins               ███████████████░░░░░░░░░░   60.64 %
+JSON   37 mins               ██████████░░░░░░░░░░░░░░░   39.36 %
 ```
 
 <!--END_SECTION:waka-->
